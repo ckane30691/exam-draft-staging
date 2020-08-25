@@ -6,10 +6,10 @@ Welcome to the a/A final exam!
 
 The first thing you'll need to do is `npm install` followed by `npm run react-install`.
 
-To run the test suite simply run `npm run test`
-To run tests for a specific section see commands below:
-
+You'll want to work through each section individually. You can run the tests for each section using the commands below!
 SystemDesign: `npm test snake`
+You'll have 60 minutes to complete this section
 DS/Algo: `npm test productOfArrayExceptSelf`
-
-<!-- React: `npm test App` -->
+You'll have 40 minutes to complete this section
+React: `npm run react-test`
+You'll have 60 minutes to complete this section
