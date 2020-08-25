@@ -8,9 +8,12 @@ The first thing you'll need to do is `npm install` followed by `npm run react-in
 
 You'll want to work through each section individually. You can run the tests for each section using the commands below!
 After running the initial test suite you'll want to review the README for that section and work towards making each test suite pass!
-SystemDesign: `npm test snake`
-You'll have 60 minutes to complete this section
-DS/Algo: `npm test productOfArrayExceptSelf`
-You'll have 40 minutes to complete this section
-React: `npm run react-test`
-You'll have 60 minutes to complete this section
+
+- SystemDesign: `npm test snake`
+  You'll have 60 minutes to complete this section
+
+- DS/Algo: `npm test productOfArrayExceptSelf`
+  You'll have 40 minutes to complete this section
+
+- React: `npm run react-test`
+  You'll have 60 minutes to complete this section
