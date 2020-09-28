@@ -6,7 +6,9 @@
   "scripts": {
     "test": "jest",
     "react-install": "npm install --prefix react/Assessment",
-    "react-test": "npm run test --prefix react/Assessment"
+    "react-test": "npm run test --prefix react/Assessment",
+    "js-install": "npm install --prefix vanilla-js",
+    "js-test": "npm run test --prefix vanilla-js"
   },
   "keywords": [],
   "author": "",
